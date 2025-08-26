@@ -1,0 +1,19 @@
+# (yukarıdaki .gitignore içeriği buraya)
+application/cache/
+application/logs/
+storage/
+bootstrap/cache/
+uploads/
+public/uploads/
+userfiles/
+vendor/
+node_modules/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.sql
+*.bak
+*.DS_Store
+.idea/
+.vscode/
